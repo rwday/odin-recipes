@@ -1,0 +1,30 @@
+body {
+    background-color:lightyellow;
+}
+
+p {
+    font-family: "courier new", "arial narrow", Verdana;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: blue;
+}
+
+img {
+    width:500px;
+    height:auto;
+}
+
+a {
+    text-decoration: none;
+    color: maroon;
+}
+
+li {
+    background-color: lightgrey;
+    padding:3px;
+}
